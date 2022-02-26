@@ -1,3 +1,3 @@
 pymongo
--e git+file://../repo-b#egg=repo_b
--e git+file://../repo-b#egg=repo_c
+-e git+ssh://git@192.168.122.244/~/repo-c.git#egg=repo_c
+-e git+ssh://git@192.168.122.244/~/repo-b.git#egg=repo_b
