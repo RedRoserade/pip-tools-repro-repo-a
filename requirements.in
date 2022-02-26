@@ -1,3 +1,8 @@
 pymongo
+
+# Leave one of the following 3 uncommented to see what happens.
 -e git+https://github.com/RedRoserade/pip-tools-repro-repo-b.git#egg=repo_b
+# -e git+https://github.com/RedRoserade/pip-tools-repro-repo-b.git@test/pep-440-url#egg=repo_b
+# -e git+https://github.com/RedRoserade/pip-tools-repro-repo-b.git@test/remove-c-dep#egg=repo_b
+
 -e git+https://github.com/RedRoserade/pip-tools-repro-repo-c.git#egg=repo_c
