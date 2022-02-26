@@ -1,6 +1,6 @@
 # Reproduction repo for a `pip-tools` bug
 
-Issue: TODO
+Issue: https://github.com/jazzband/pip-tools/issues/1589
 
 ## Companion repositories:
 
