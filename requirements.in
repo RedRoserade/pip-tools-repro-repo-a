@@ -1,3 +1,3 @@
 pymongo
--e git+ssh://git@192.168.122.244/~/repo-c.git#egg=repo_c
--e git+ssh://git@192.168.122.244/~/repo-b.git#egg=repo_b
+-e git+https://github.com/RedRoserade/pip-tools-repro-repo-b.git#egg=repo_b
+-e git+https://github.com/RedRoserade/pip-tools-repro-repo-c.git#egg=repo_c
